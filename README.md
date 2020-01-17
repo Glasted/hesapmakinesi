@@ -1,3 +1,3 @@
 # hesapmakinesi
 for learning
-deneme 123
+ne olduğunu anlamıoyorum şuan
